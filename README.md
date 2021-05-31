@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 
 <head>
@@ -99,7 +99,7 @@
                     diferentes capas.</p>
 
             </section>
-        </div>
+        
             <article class="concepto">
                 <h3>Objetivo de Mente en cancha</h3>
                 <p>Este sitio ayuda a personas con dudas sobre el basketball.Es fundamental saber qué accesorios se
@@ -115,7 +115,4 @@
             <p>©2021 Creado por David Gamiño Maciel</p>
             
         </footer>
-    </center>
-</body>
-
-</html>
+    
