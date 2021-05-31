@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="es">
 
 <head>
@@ -44,7 +44,7 @@
                 <h1>Zapatillas</h1> <br>
 
                 <h2>Kyrie 6</h2>
-                <img src="imagenes/Kyrie-6.jpg" <br>
+                <img src="imagenes/Kyrie-6.jpg" alt="Kyrie 6" title="Kyrie 6" <br>
                 <p>Este modelo por parte de Nike nos brinda un upper hecho de tejido rígido y fuerte en la parte
                     delantera del pie.También tiene una parte de cuero o piel en la parte del tobillo y talón, haciendo
                     de este par muy resistente para exterior y capaz de hacer cambios bruscos.</p>
@@ -60,7 +60,7 @@
                     </p>
                 </aside>
                 <h2>Kyrie Flytrap 3</h2>
-                <img src="imagenes/Kyrie-flytrap-3.jpg" <br>
+                <img src="imagenes/Kyrie-flytrap-3.jpg" alt="Kyrie Flytrap 3" title="Kyrie Flytrap 3" <br>
                 <p>Este modelo por parte de Nike es específico para exteriores teniendo un tejido rígido que cubre todo
                     el pie.Y una suela con líneas muy marcadas y profundas para un mejor agarre en la cacha.</p>
                       
@@ -68,7 +68,7 @@
                 <br>
                 <br>
                 <h2>Jordan XXXV</h2>
-                <img src="imagenes/Jordan-XXXV.jpg" <br>
+                <img src="imagenes/Jordan-XXXV.jpg" alt="Jordan XXXV" title="Jordan XXXV" <br>
                 <p>Por parte de la firma Jordan está este modelo con materiales resistentes para exterior.Aunque sea
                     algo caro por los buenos materiales que tiene, la tecnología que te brinda vale la pena. Teniendo
                     materiales de piel y cuero por todo el par, es un par que durará en la cancha.</p>
@@ -76,7 +76,7 @@
                 <br>
                 <br>
                 <h2>D Rose 10</h2>
-                <img src="imagenes/D Rose-10.jpg" <br>
+                <img src="imagenes/D Rose-10.jpg" alt="D Rose 10" title="D Rose 10" <br>
                 <p>Por parte de Adidas está el modelo D. Rose 10 la cual es una zapatilla de caña media y algo tosca
                     para algunas personas.Tiene unos materiales de muy buena calidad y duraderos, tales como la suela
                     resistente. Indicada para exteriores.</p>
@@ -84,7 +84,7 @@
                 <br>
                 <br>
                 <h2>Dame 6</h2>
-                <img src="imagenes/Dame-6.jpg" <br>
+                <img src="imagenes/Dame-6.jpg" alt="Dame 6" title="Dame 6" <br>
                 <p>Por parte de Adidas tenemos este modelo Dame 6 que si bien no es tan rígido de la parte del upper, es
                     muy resistente si suela, lo que hace especial para exterior.Aunque no sea rígido su upper, tiene
                     varias capas, por lo que durará buen tiempo.</p>
@@ -92,7 +92,7 @@
                 <br>
                 <br>
                 <h2>Curry 7</h2>
-                <img src="imagenes/Curry-7.jpg" <br>
+                <img src="imagenes/Curry-7.jpg" alt="Curry 7" title="Curry 7" <br>
                 <p>Por parte de Under Armour tenemos este modelo Curry 7, que particularmente la marca Under Armour
                     tiene fama por tener una de las mejores suela y con mejor grip en el mercado, haciendo de este
                     modelo el indicado para usar en exterior.Además tiene tejidos rígidos que cubren todo el pie con
